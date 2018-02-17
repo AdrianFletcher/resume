@@ -36,7 +36,6 @@ Jun 2009 - Jan 2015 **Director / Founder** <u>Fletch Technology</u> - _Brisbane,
 - Directed all functions of the company – managing sales, marketing and client side technical assistance with strong business leadership.
 - Managing the hiring and training of staff, including all government, and accounting requirements.
 - The installation of Windows based technology, including Windows Server (Up to 2012 R2), Microsoft Exchange, Office 365, and Microsoft Hyper-V virtualisation.
-- Building the Fletch Technology team to 3 technical employees.
 - Growing the customer base to over twelve state schools and four businesses.
 - Developed expertise in VMware and Hyper-V infrastructure – running both the Microsoft Small Business stack, from Server 2003 to Server 2012 R2, including Terminal Services, Active Directory, Group Policy and Microsoft Exchange.
 
@@ -53,7 +52,7 @@ Apr 2003 - May 2009 **System Administrator** - <u>Malaco</u> - _Brisbane, Austra
 - Ongoing **University of Queensland - Masters of Business**
 - 2001 - 2003 **Griffith University - Information Technology (CS/SE)**
 
-### Certifications
+## Certifications
 <img src="images/MCSE-Cloud-Platform-Infrastructure-2018.png" width=150 />
 <img src="images/MCSA-Windows-Server-2016.png" width=150 />
 <img src="images/MCSA-Windows-Server-2012R2.png" width=150 />
