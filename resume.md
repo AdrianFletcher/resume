@@ -3,15 +3,15 @@
 adrian@adrianfletcher.org | +44 79 3445 5766 | 167B Walm Lane, London, NW2 3AY
 
 ## Summary of Key Achievements
-- Design and full implementation of migration of customer premises (500+ users) from legacy Windows environment to a Microsoft Storage Spaces-based, highly-available, Remote Desktop Services environment. Including networking, server deployment, datacenter management and complete Active Directory rebuild, including Group Policy and virtual machine deployment.
-- Extension of customer environment to Microsoft Azure for (multiple) disaster recovery scenarios and highly available Single Sign On utilising ADFS 2016 and Web Application Proxies.
+- Design and full implementation of migration of customer premises (600+ users) from legacy Windows environment to a Microsoft Storage Spaces-based, highly-available, Remote Desktop Services environment. Including networking, server deployment, datacenter management and complete Active Directory rebuild, including Group Policy and virtual machine deployment.
+- Extension of customer environment to Microsoft Azure for multiple disaster recovery scenarios and highly available Single Sign On utilising ADFS 2016 and Web Application Proxies.
 - Multiple complex Office 365 / Exchange Online migrations, including customer identity management and hybrid environment setup and troubleshooting.
 - Building of a successful MSP targetting Education and SME - including the development of sales, human resources, internal and technical processes. Delivering safe, effective technology support reaching over 300 teachers, 6000 students and 100 school administrators.
 
 ## Professional Experience
 
 _Dec 2015 - Present_ **Solution Architect and Technical Presales** - <u>Blue Saffron Limited</u> - _London, United Kingdom_
-
+- 
 - Customer engagement for design and development of cloud or hybrid cloud solutions to IT and business requirements. Ongoing project development and implementation, including Project Management. Writing of technical and support documentation, and training of Blue Saffron support team on new customer environment support processes.
 - Solution design for large scale cloud-only or hybrid environment builds, including network, storage, and application-level clustering and failover.
 - Responsiblity for solution development and technical implementation including documentation, customer and supplier management, and customer training.
@@ -50,7 +50,7 @@ Apr 2003 - May 2009 **System Administrator** - <u>Malaco</u> - _Brisbane, Austra
 ## Education
 
 - Ongoing **University of Queensland - Masters of Business**
-- 2001 - 2003 **Griffith University - Information Technology (CS/SE)**
+- 2001 - 2003 **Griffith University - Information Technology (Computer Science/Software Engineering)**
 
 ## Certifications
 <img src="images/MCSE-Cloud-Platform-Infrastructure-2018.png" width=150 />
