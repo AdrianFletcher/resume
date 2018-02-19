@@ -6,23 +6,22 @@
 - Design and full implementation of migration of customer premises (600+ users) from legacy Windows environment to a Microsoft Storage Spaces-based, highly-available, Remote Desktop Services environment. Including networking, server deployment, datacenter management and complete Active Directory rebuild, including Group Policy and virtual machine deployment.
 - Extension of customer environment to Microsoft Azure for multiple disaster recovery scenarios and highly available Single Sign On utilising ADFS 2016 and Web Application Proxies.
 - Multiple complex Office 365 / Exchange Online migrations, including customer identity management and hybrid environment setup and troubleshooting.
-- Building of a successful MSP targetting Education and SME - including the development of sales, human resources, internal and technical processes. Delivering safe, effective technology support reaching over 300 teachers, 6000 students and 100 school administrators.
+- Building of a successful MSP targeting Education and SME - including the development of sales, human resources, internal and technical processes. Delivering safe, effective technology support reaching over 300 teachers, 6000 students and 100 school administrators.
 
 ## Professional Experience
 
 _Dec 2015 - Present_ **Solution Architect and Technical Presales** - <u>Blue Saffron Limited</u> - _London, United Kingdom_
-- 
 - Customer engagement for design and development of cloud or hybrid cloud solutions to IT and business requirements. Ongoing project development and implementation, including Project Management. Writing of technical and support documentation, and training of Blue Saffron support team on new customer environment support processes.
 - Solution design for large scale cloud-only or hybrid environment builds, including network, storage, and application-level clustering and failover.
-- Responsiblity for solution development and technical implementation including documentation, customer and supplier management, and customer training.
-- Full development and implementation of a complex disaster recovery environement for a large-scale RDS based customer environment. Authoring tools to allow single click failover - utilising PowerShell, .NET, Azure Hybrid worker pools and Azure Runbooks to automate scenarios such as on-premises route mangement, DFS failover and S2S VPN connection management.
+- Responsibility for solution development and technical implementation including documentation, customer and supplier management, and customer training.
+- Full development and implementation of a complex disaster recovery environment for a large-scale RDS based customer environment. Authoring tools to allow single click failover - utilising PowerShell, .NET, Azure Hybrid worker pools and Azure Runbooks to automate scenarios such as on-premises route mangement, DFS failover and S2S VPN connection management.
 - Authoring tools for in-house and customer environments - including Professional Services Administration (PSA) integration, Azure billing management, and Windows monitoring and identification agents.
 - Migration of large customer premises from legacy environment to Microsoft Storage Spaces-based, highly-available, Remote Desktop Services environment. Strong project management resulted in a smooth transition while rebuilding the customer environment.
 - Complete migrations from on-premises Exchange to hosted Exchange Online, including complex identity management solutions.
 - Development of an architecture for Private Cloud, Microsoft based, Hyper-V environments for customers including SCVMM configuration and complex Active Directory/Group Policy configuration.
 - Other tasks as required to assist current and future support and sales programs.
 
-*Technology* - Microsoft Storage Spaces (2012 R2), Hyper-V Failover Clustering, SQL Server Failover Clustering, PowerShell, Azure AD Connect, Server 2016, SQL Server 2016, SQL Always-On, Azure Automation, Azure Log Analytics, Load Balancing, VPN, Cisco ASA, ADFS 2016, Web Application Proxy, DFS Replication and Namespaces
+*Technology* - Microsoft Storage Spaces (2012 R2), Hyper-V Failover Clustering, SQL Server Failover Clustering, PowerShell, Azure AD Connect, Server 2016, SQL Server 2016, SQL Always-On, Azure Automation, Azure Log Analytics, Azure Hybrid Workers, Load Balancing, VPN, Cisco ASA, ADFS 2016, Web Application Proxy, and DFS
 
 _Mar 2015 - Dec 2015_ **Senior Network Administrator** - <u>Blue Saffron Limited</u> - _London, United Kingdom_
 
