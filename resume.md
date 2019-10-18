@@ -64,7 +64,7 @@ Apr 2003 - May 2009 **System Administrator** - <u>Malaco</u> - _Brisbane, Austra
 - 2001 - 2003 **Griffith University - Information Technology (Computer Science/Software Engineering)**
 
 ## Certifications
-<img src="images/AZ-103-Azure-Administrator-Associate-2019.png" width=150 text="Microsoft Azure Administrator Associate 2019" />
-<img src="images/MCSE-Cloud-Platform-Infrastructure-2018.png" width=150 text="Cloud Platform and Infrastructure" />
-<img src="images/MCSA-Windows-Server-2016.png" width=150 text="Windows Server 2016" />
-<img src="images/MCSA-Windows-Server-2012R2.png" width=150 text="Windows Server 2012 R2" />
+<img src="images/AZ-103-Azure-Administrator-Associate-2019.png" text="Microsoft Azure Administrator Associate 2019" />
+<img src="images/MCSE-Cloud-Platform-Infrastructure-2018.png" text="Cloud Platform and Infrastructure" />
+<img src="images/MCSA-Windows-Server-2016.png" text="Windows Server 2016" />
+<img src="images/MCSA-Windows-Server-2012R2.png" text="Windows Server 2012 R2" />
