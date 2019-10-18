@@ -1,6 +1,6 @@
 # Adrian Fletcher
 
-[adrian@adrianfletcher.org](mailto:adrian@adrianfletcher.org) | +44 79 3445 5766 | 1A Hoveden Road, NW2 3XE
+[adrian@adrianfletcher.org](mailto:adrian@adrianfletcher.org) | [+44 79 3445 5766](tel:+44-79-3445-5766)
 
 ## Summary of Key Achievements
 - Design and full implementation of migration of customer premises (600+ users) from legacy Windows environment to a Microsoft Storage Spaces-based, highly-available, Remote Desktop Services environment. Including networking, server deployment, datacenter management and complete Active Directory rebuild, including Group Policy and virtual machine deployment.
