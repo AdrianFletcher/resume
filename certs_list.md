@@ -1,0 +1,4 @@
+- Microsoft Azure Administrator Associate 2019
+- MCSE Cloud Platform and Infrastructure 2018
+- MCSA Windows Server 2016
+- MCSA Windows Server 2012 R2
