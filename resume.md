@@ -12,6 +12,7 @@
 ## Professional Experience
 
 _Mar 2018 - Present_ **Senior Cloud Solution Architect** - <u>Blue Saffron Limited</u> - _London, United Kingdom_
+
 - Migration of customer AWS infrastructure from AWS to Azure hosting, including Azure AD based indentity migration and complete Server 2016 based remote desktop environment with FSLogix profile management including data migration, security auditing and user acceptance testing.
 - Development of .NET based proprietary client management software, managed and controlled natively by Microsoft InTune.
 - Presales and solution design for Azure / Cloud first environments including RDS and Microsoft InTune.
@@ -23,6 +24,7 @@ _Mar 2018 - Present_ **Senior Cloud Solution Architect** - <u>Blue Saffron Limit
 *Technology* - Office/Microsoft 365, Microsoft InTune and Azure Active Directory, FSLogix Profile Management, DataDog, Azure Conditional Access, ExpressRoute, PowerShell, .NET, BackBlaze B2, StarWind VTL
 
 _Dec 2015 - Present_ **Solution Architect and Technical Presales** - <u>Blue Saffron Limited</u> - _London, United Kingdom_
+
 - Customer engagement for design and development of cloud or hybrid cloud solutions to IT and business requirements. Ongoing project development and implementation, including Project Management. Writing of technical and support documentation, and training of Blue Saffron support team on new customer environment support processes.
 - Solution design for large scale cloud-only or hybrid environment builds, including network, storage, and application-level clustering and failover.
 - Responsibility for solution development and technical implementation including documentation, customer and supplier management, and customer training.
@@ -44,6 +46,7 @@ _Mar 2015 - Dec 2015_ **Senior Network Administrator** - <u>Blue Saffron Limited
 - Authored numerous management and automation PowerShell scripts for identity management, server maintenance and custom business processes.
 
 Jun 2009 - Jan 2015 **Director / Founder** <u>Fletch Technology</u> - _Brisbane, Australia_
+
 - Directed all functions of the company – managing sales, marketing and client side technical assistance with strong business leadership.
 - Managing the hiring and training of staff, including all government, and accounting requirements.
 - The installation of Windows based technology, including Windows Server (Up to 2012 R2), Microsoft Exchange, Office 365, and Microsoft Hyper-V virtualisation.
@@ -51,6 +54,7 @@ Jun 2009 - Jan 2015 **Director / Founder** <u>Fletch Technology</u> - _Brisbane,
 - Developed expertise in VMware and Hyper-V infrastructure – running both the Microsoft Small Business stack, from Server 2003 to Server 2012 R2, including Terminal Services, Active Directory, Group Policy and Microsoft Exchange.
 
 Apr 2003 - May 2009 **System Administrator** - <u>Malaco</u> - _Brisbane, Australia_
+
 - Responsible for over 500 computers, requiring effective use of available technology - including custom image creation, software deployment and logon scripts.
 - Providing professional support to various small businesses up to 50 employees.
 - Implementation of large scale Group Policy, distributed anti-virus and other security requirements.
