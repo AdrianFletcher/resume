@@ -1,14 +1,26 @@
 # Adrian Fletcher
 
-[adrian@adrianfletcher.org](mailto:adrian@adrianfletcher.org) | +44 79 3445 5766 | 167B Walm Lane, London, NW2 3AY
+[adrian@adrianfletcher.org](mailto:adrian@adrianfletcher.org) | +44 79 3445 5766 | 1A Hoveden Road, NW2 3XE
 
 ## Summary of Key Achievements
 - Design and full implementation of migration of customer premises (600+ users) from legacy Windows environment to a Microsoft Storage Spaces-based, highly-available, Remote Desktop Services environment. Including networking, server deployment, datacenter management and complete Active Directory rebuild, including Group Policy and virtual machine deployment.
-- Extension of customer environment to Microsoft Azure for multiple disaster recovery scenarios and highly available Single Sign On utilising ADFS 2016 and Web Application Proxies.
+- Extension of customer environment to Microsoft Azure for multiple disaster recovery scenarios and highly available Single Sign On utilising ADFS 2016 and Web Application Proxy.
 - Multiple complex Office 365 / Exchange Online migrations, including customer identity management and hybrid environment setup and troubleshooting.
+- Excellent customer relationship skills
 - Building of a successful MSP targeting Education and SME - including the development of sales, human resources, internal and technical processes. Delivering safe, effective technology support reaching over 300 teachers, 6000 students and 100 school administrators.
 
 ## Professional Experience
+
+_Mar 2018 - Present_ **Senior Cloud Solution Architect** - <u>Blue Saffron Limited</u> - _London, United Kingdom_
+- Migration of customer AWS infrastructure from AWS to Azure hosting, including Azure AD based indentity migration and complete Server 2016 based remote desktop environment with FSLogix profile management including data migration, security auditing and user acceptance testing.
+- Development of .NET based proprietary client management software, managed and controlled natively by Microsoft InTune.
+- Presales and solution design for Azure / Cloud first environments including RDS and Microsoft InTune.
+- DataDog monitoring solutions of complex environments including custom sensors and dashboarding development in conjunction with specific customer requirements.
+- Project technical management of large scale (500+ seats) Lotus Domino to Exchange Online migration.
+- InTune project design and implementation including configuration and compliance polices and custom software deployment.
+- Customer focused role with technical presales and sales assistance.
+
+*Technology* - Office/Microsoft 365, Microsoft InTune and Azure Active Directory, FSLogix Profile Management, DataDog, Azure Conditional Access, ExpressRoute, PowerShell, .NET, BackBlaze B2, StarWind VTL
 
 _Dec 2015 - Present_ **Solution Architect and Technical Presales** - <u>Blue Saffron Limited</u> - _London, United Kingdom_
 - Customer engagement for design and development of cloud or hybrid cloud solutions to IT and business requirements. Ongoing project development and implementation, including Project Management. Writing of technical and support documentation, and training of Blue Saffron support team on new customer environment support processes.
@@ -19,7 +31,7 @@ _Dec 2015 - Present_ **Solution Architect and Technical Presales** - <u>Blue Saf
 - Migration of large customer premises from legacy environment to Microsoft Storage Spaces-based, highly-available, Remote Desktop Services environment. Strong project management resulted in a smooth transition while rebuilding the customer environment.
 - Complete migrations from on-premises Exchange to hosted Exchange Online, including complex identity management solutions.
 - Development of an architecture for Private Cloud, Microsoft based, Hyper-V environments for customers including SCVMM configuration and complex Active Directory/Group Policy configuration.
-- Other tasks as required to assist current and future support and sales programs.
+- Internal migrations from legacy application environment to modern, Server 2016 based infrastructure.
 
 *Technology* - Microsoft Storage Spaces (2012 R2), Hyper-V Failover Clustering, SQL Server Failover Clustering, PowerShell, Azure AD Connect, Server 2016, SQL Server 2016, SQL Always-On, Azure Automation, Azure Log Analytics, Azure Hybrid Workers, Load Balancing, VPN, Cisco ASA, ADFS 2016, Web Application Proxy, and DFS
 
@@ -53,5 +65,6 @@ Apr 2003 - May 2009 **System Administrator** - <u>Malaco</u> - _Brisbane, Austra
 
 ## Certifications
 <img src="images/MCSE-Cloud-Platform-Infrastructure-2018.png" width=150 alt="Cloud Platform and Infrastructure" />
+<img src="images/AZ-103-Azure-Administrator-Associate-2019.png" width=150 alt="Microsoft Azure Administrator Associate 2019" />
 <img src="images/MCSA-Windows-Server-2016.png" width=150 alt="Windows Server 2016" />
 <img src="images/MCSA-Windows-Server-2012R2.png" width=150 alt="Windows Server 2012 R2" />
